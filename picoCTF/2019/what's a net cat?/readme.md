@@ -1,5 +1,5 @@
 # Challenge
-This vault uses some complicated arrays! I hope you can make sense of it, special agent. The source code for this vault is here: VaultDoor1.java
+Using netcat (nc) is going to be pretty important. Can you connect to 2019shell1.picoctf.com at port 21865 to get the flag?
 
 # Solution
 That's a similar challenge to `dont-use-client-side`.
