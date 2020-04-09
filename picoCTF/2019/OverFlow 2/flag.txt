@@ -1,0 +1,7 @@
+stack eip ebp got buf4
+
+
+
+
+4
+
